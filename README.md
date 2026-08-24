@@ -14,5 +14,10 @@ This project evaluates textual feature extraction methods, hyperparameter optimi
 - **Data Visualization:** matplotlib, seaborn
 ##  Key Results & Evaluation
 Logistic Regression significantly outperformed Multinomial Naive Bayes (~73.65% test accuracy) due to its superior handling of feature weight distributions across overlapping n-grams.
-### Classification Report Summary
-![Sentiment Classification Report Summary]()
+## Classification Report Summary
+
+![Sentiment Classification Report Summary](report_summary.png)
+## Confusion Matrix Visualization
+
+![Sentiment Confusion Matrix](confusion_matrix.png)
+
